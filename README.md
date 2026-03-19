@@ -9,11 +9,6 @@ The goal is to support better business decisions by transforming raw transaction
 The business wants to improve profitability, but expense data is limited. This project focuses on revenue optimization by identifying which customers and products contribute most to long-term revenue.
 
 The core question is: which customer segments and product behaviors drive the highest lifetime value, and how can these insights be used to increase revenue more efficiently?
-## Business Problem
-
-The business wants to improve profitability, but expense data is limited. This project focuses on revenue optimization by identifying which customers and products contribute most to long-term revenue.
-
-The core question is: which customer segments and product behaviors drive the highest lifetime value, and how can these insights be used to increase revenue more efficiently?
 ## Stakeholders
 
 - Marketing team
