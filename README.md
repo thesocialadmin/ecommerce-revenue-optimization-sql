@@ -43,7 +43,7 @@ Sensitive business information has been excluded or anonymized where necessary.
 - GitHub
 - Database
 - Dashboard
-  ## Data Workflow
+## Data Workflow
 
 1. Raw data is imported from source files
 2. Data is cleaned and standardized using SQL
