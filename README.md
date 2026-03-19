@@ -19,7 +19,7 @@ The core question is: which customer segments and product behaviors drive the hi
 - Marketing team
 - Growth team
 - Business owner / operator
-- ## Dataset
+## Dataset
 
 The dataset contains historical e-commerce order data from 2018 to present.
 
@@ -37,7 +37,7 @@ Sensitive business information has been excluded or anonymized where necessary.
 - Analyze customer lifetime value and repeat purchasing behavior
 - Identify product trends that drive revenue
 - Build a dashboard to communicate insights
-- ## Tech Stack
+## Tech Stack
 
 - SQL
 - GitHub
@@ -64,7 +64,7 @@ Sensitive business information has been excluded or anonymized where necessary.
 - Subqueries
 - Aggregations
 - Date-based analysis
-  ## Dashboard
+## Dashboard
 
 Dashboard link: Coming soon
 ## Next Steps
